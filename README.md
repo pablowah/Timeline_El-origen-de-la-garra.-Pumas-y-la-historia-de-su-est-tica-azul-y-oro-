@@ -60,7 +60,7 @@ La línea del tiempo fue realizada en la platadorma TimelineJS y formó parte de
 5. Documentación y Archivado 
  
 
-La documentación está almacenada en [link]. 
+La documentación está almacenada en [[link](https://github.com/pablowah/Timeline_Pumas-y-la-historia-de-su-est-tica-azul-y-oro)]. 
 
  
 
